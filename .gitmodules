@@ -1,0 +1,6 @@
+[submodule "PBRT"]
+	path = PBRT
+	url = https://github.com/mmp/pbrt-v3.git
+[submodule "Radium"]
+	path = Radium
+	url = https://github.com/STORM-IRIT/Radium-Engine.git
